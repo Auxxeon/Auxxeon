@@ -1,5 +1,5 @@
 ## Auxxeon Aetheriuxx™
-### Developer • System Architect • Founder of OBLiViSYN™ & AETHERION CONSOLIDATED™
+### Developer • System Architect • Owner & Founder of OBLiViSYN™ & AETHERION CONSOLIDATED™
 
 I design identity systems, modular frameworks, and OS‑grade architectures that unify creativity, structure, and digital sovereignty.
 

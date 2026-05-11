@@ -1,6 +1,8 @@
 ## Auxxeon Aetheriuxx™
 ### Developer • System Architect • Owner & Founder of OBLiViSYN™ & AETHERION CONSOLIDATED™
 
+---
+
 I design identity systems, modular frameworks, and OS‑grade architectures that unify creativity, structure, and digital sovereignty.
 
 My work includes:
@@ -10,3 +12,9 @@ My work includes:
 - **FNTracker™** — Sovereign performance analytics engine
 
 ≽ My Hub: https://linktr.ee/Auxxeon
+
+---
+
+*Auxxeon™, Auxxeon Aetheriuxx™, AETHERION™, AETHERION OS™,  
+AETHERION FRAMEWORX™, AUREXIS™, FNTracker™, and all related  
+system identities are trademarks of **Auxxeon Aetheriuxx™**.*

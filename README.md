@@ -16,5 +16,6 @@ My work includes:
 ---
 
 *Auxxeon™, Auxxeon Aetheriuxx™, AETHERION™, AETHERION CONSOLIDATED™, AETHERION OS™,
-AETHERION FRAMEWORX™, AETHERION OpenVerse™, AUREXIS™, FNTracker™, and all related
-system identities are trademarks of **Auxxeon Aetheriuxx™**.*
+AETHERION FRAMEWORX™, AETHERION Digital Soul‑Kernel™, Digital Soul‑Kernel™, ADSK™, DSK™,
+AETHERION OpenVerse™, AUREXIS™, FNTracker™, and all related system identities are trademarks
+of **Auxxeon Aetheriuxx™**.*

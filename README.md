@@ -1,5 +1,5 @@
 ## Auxxeon Aetheriuxx™
-### Developer • System Architect • Owner & Founder of OBLiViSYN™ & AETHERION CONSOLIDATED™
+### Developer • System Architect • Owner & Founder of OBLiViSYN™ & AETHERION™
 
 ---
 
@@ -15,4 +15,4 @@ My work includes:
 
 ---
 
-*Auxxeon™, Auxxeon Aetheriuxx™, OBLiViSYN™, AETHERION™, AETHERION CONSOLIDATED™, and all related ecosystem identities are trademarks of **Auxxeon Aetheriuxx™**.*
+*Auxxeon™, Auxxeon Aetheriuxx™, OBLiViSYN™, AETHERION™, and all related ecosystem identities are trademarks of **Auxxeon Aetheriuxx™**.*

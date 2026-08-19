@@ -9,7 +9,6 @@ My work includes:
 - **AVRAXEL OS™ (AOS™)** — Sovereign operating‑system identity layer
 - **AVRAXEL FRAMEWORX™** — Modular substrate powering ingestion, telemetry, and behavioural systems
 - **AUREXIS™** — Cognitive architecture & interpretive intelligence layer
-- **FNTracker™** — Sovereign performance analytics engine
 
 ≽ **My Hub**: https://linktr.ee/Auxxeon
 

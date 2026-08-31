@@ -9,9 +9,10 @@ My work includes:
 - **AVRAXEL OS™ (AOS™)** — Sovereign operating‑system identity layer
 - **AVRAXEL FRAMEWORX™** — Modular substrate powering ingestion, telemetry, and behavioural systems
 - **AUREXIS™** — Cognitive architecture & interpretive intelligence layer
+- **GMOS™** — Digital dashboard operating system.
 
 ≽ **My Hub**: https://linktr.ee/Auxxeon
 
 ---
 
-*Auxxeon™, Auxxeon Aetheriuxx™, OBLiViSYN™, AVRAXEL™, and all related ecosystem identities are trademarks of **Auxxeon Aetheriuxx™**.*
+*Auxxeon™, Auxxeon Aetheriuxx™, OBLiViSYN™, AVRAXEL™, GMOS™, and all related ecosystem identities are trademarks of **Auxxeon Aetheriuxx™**.*
